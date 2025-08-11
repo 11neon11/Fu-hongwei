@@ -51,9 +51,9 @@
 
 1. [2025 ICCV] **AllGCD: Leveraging All Unlabeled Data for Generalized Category Discovery** [[paper]](https://arxiv.org/pdf/2406.07236) [[code]](TBA)
 
-2. [2025 ICCV] **Generate, Refine, and Encode: Leveraging Synthesized Novel Samples for On-the-Fly Fine-Grained Category Discovery** [[paper]](TBA) [[code]](TBA)
+2. [2025 ICCV] **Generate, Refine, and Encode: Leveraging Synthesized Novel Samples for On-the-Fly Fine-Grained Category Discovery** [[paper]](https://arxiv.org/abs/2507.04051) [[code]](TBA)
 
-3. [2025 ICCV] **On the Provable Importance of Gradients for Language-Assisted Image Clustering** [[paper]](TBA) [[code]](TBA)
+3. [2025 ICCV] **On the Provable Importance of Gradients for Language-Assisted Image Clustering** [[paper]](https://arxiv.org/abs/2507.04051) [[code]](TBA)
 
 
 **Fine-Grained & Semi-Supervised Learning：**
@@ -67,20 +67,20 @@
 
 **Few-Shot / Transfer Learning：**
 
-1. [2025 IEEE TIP] **Decoupling Discriminative Attributes for Few-shot Fine-Grained Recognition** [[paper]](TBA) [[code]](TBA)
+1. [2025 IEEE TIP] **Decoupling Discriminative Attributes for Few-shot Fine-Grained Recognition** [[paper]](https://ieeexplore.ieee.org/abstract/document/11031126) [[code]](TBA)
 
 2. [2023 ICCV] **Black Box Few-Shot Adaptation for Vision-Language Models** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf) [[code]](TBA)
 
 
 **Cross-Lingual / Embedding Alignment：**
 
-1. [2020] **Non-Linear Instance-Based Cross-Lingual Mapping for Non-Isomorphic Embedding Spaces** [[paper]](TBA) [[code]](TBA)
+1. [2020] **Non-Linear Instance-Based Cross-Lingual Mapping for Non-Isomorphic Embedding Spaces** [[paper]](https://aclanthology.org/2020.acl-main.675/) [[code]](TBA)
 
-2. [2019] **Learning Multilingual Word Embeddings in Latent Metric Space** [[paper]](TBA) [[code]](TBA)
+2. [2019] **Learning Multilingual Word Embeddings in Latent Metric Space** [[paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00257/43509/Learning-Multilingual-Word-Embeddings-in-Latent) [[code]](TBA)
 
-3. [2020] **Unsupervised Alignment of Embeddings with Wasserstein Procrustes** [[paper]](TBA) [[code]](TBA)
+3. [2020] **Unsupervised Alignment of Embeddings with Wasserstein Procrustes** [[paper]](https://proceedings.mlr.press/v89/grave19a.html) [[code]](TBA)
 
-4. [2018] **Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion** [[paper]](TBA) [[code]](TBA)
+4. [2018] **Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion** [[paper]](https://arxiv.org/abs/1804.07745) [[code]](TBA)
 
 
 **Others：**
