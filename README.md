@@ -1,4 +1,4 @@
-**老师提供暂存：** 
+**暂存：** 
 1. [2025CVPR] **POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
 > 弱监督病理图像的语义分割
 2. [2025CVPR] **Multi-Label Prototype Visual Spatial Search for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_Multi-Label_Prototype_Visual_Spatial_Search_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf)
@@ -32,3 +32,40 @@
 14. [2025 CVPR] **Realistic Test-Time Adaptation of Vision-Language Models** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zanella_Realistic_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2025_paper.pdf) [[code]](https://github.com/MaxZanella/StatA) [[original]](https://arxiv.org/pdf/2406.01837)
 15. [2025 ICLR] **Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model** [[paper]](https://arxiv.org/pdf/2412.18303) [[code]](https://github.com/Yushu-Li/ECALP?tab=readme-ov-file)
 16. [2025 arXiv] **Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2505.21844v1) [[code]](https://github.com/dosowiechi/MLMP?tab=readme-ov-file)
+17.[2025 ICCV] **Training-Free Text-Guided Image Editing with Visual Autoregressive Model** [[paper]](https://arxiv.org/pdf/2406.07236) [[code]](https://github.com/wyf0912/AREdit)
+18[2025 ICCV] **Training-Free Industrial Defect Generation with Diffusion Models** [[paper]](TBA) [[code]](TBA)
+19[2025 ICCV]**SynCity: Training-Free Generation of 3D Cities** [[paper]](https://arxiv.org/abs/2503.16420) [[code]](https://github.com/paulengstler/syncity)
+20[2025 ICCV]**Training-free Geometric Image Editing on Diffusion Models** [[paper]](TBA) [[code]](TBA)
+21[2025 arXiv]**Frequency-Guided Diffusion for Training-Free Text-Driven Image Translation** [[paper]](https://arxiv.org/pdf/2410.14729) [[code]](TBA)
+22[2025 arXiv]**KV-Edit: Training-Free Image Editing for Precise Background Preservation** [[paper]](https://arxiv.org/pdf/2410.14729) [[code]](TBA)
+23[2025 ICCV]**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing** [[paper]](https://arxiv.org/pdf/2410.14729) [[code]](TBA)
+
+
+
+**Generalized / Fine-Grained Category Discovery**
+- **[2025 ICCV] AllGCD: Leveraging All Unlabeled Data for Generalized Category Discovery** [[paper]](https://arxiv.org/pdf/2406.07236) [[code]](TBA)
+- **[2025 ICCV] Generate, Refine, and Encode: Leveraging Synthesized Novel Samples for On-the-Fly Fine-Grained Category Discovery** [[paper]](TBA) [[code]](TBA)
+- **[2025 ICCV] On the Provable Importance of Gradients for Language-Assisted Image Clustering** [[paper]](TBA) [[code]](TBA)
+
+**Fine-Grained & Semi-Supervised Learning**
+- **[2025 ICCV] SemiVisBooster: Boosting Semi-Supervised Learning for Fine-Grained Classification through Pseudo-Label Semantic Guidance** [[paper]](https://arxiv.org/pdf/2508.01225) [[code]](TBA)
+- **[2025 ICCV] LLM-assisted Entropy-based Adaptive Distillation for Unsupervised Fine-grained Visual Representation Learning** [[paper]](https://iccv.thecvf.com/virtual/2025/poster/2604) [[code]](TBA)
+- **[ICCV 2025] Let Go of Your Labels with Unsupervised Transfer** [[paper]](https://iccv.thecvf.com/virtual/2025/poster/2604) [[code]](TBA)
+
+**Few-Shot / Transfer Learning**
+- **[2025 IEEE TIP] Decoupling Discriminative Attributes for Few-shot Fine-Grained Recognition** [[paper]](TBA) [[code]](TBA)
+- **[2023 ICCV] Black Box Few-Shot Adaptation for Vision-Language Models** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf) [[code]](TBA)
+
+**Cross-Lingual / Embedding Alignment**
+- **[2020] Non-Linear Instance-Based Cross-Lingual Mapping for Non-Isomorphic Embedding Spaces** [[paper]](TBA) [[code]](TBA)
+- **[2019] Learning Multilingual Word Embeddings in Latent Metric Space** [[paper]](TBA) [[code]](TBA)
+- **[2020] Unsupervised Alignment of Embeddings with Wasserstein Procrustes** [[paper]](TBA) [[code]](TBA)
+- **[2018] Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion** [[paper]](TBA) [[code]](TBA)
+
+**Others**
+- **[2025 arXiv] Unknown Title (arXiv:2506.06231)** [[paper]](https://arxiv.org/pdf/2506.06231) [[code]](TBA)
+- **[2025 arXiv] Unknown Title (arXiv:2505.12540)** [[paper]](https://arxiv.org/pdf/2505.12540) [[code]](TBA)
+
+
+
+> 
