@@ -85,6 +85,6 @@
 
 **Others：**
 
-1. [2025 arXiv] **Unknown Title (arXiv:2506.06231)** [[paper]](https://arxiv.org/pdf/2506.06231) [[code]](TBA)
+1. [2025 arXiv] **Towards an Explainable Comparison and Alignment of Feature Embeddings** [[paper]](https://arxiv.org/pdf/2506.06231) [[code]](TBA)
 
-2. [2025 arXiv] **Unknown Title (arXiv:2505.12540)** [[paper]](https://arxiv.org/pdf/2505.12540) [[code]](TBA)
+2. [2025 arXiv] **Harnessing the Universal Geometry of Embeddings** [[paper]](https://arxiv.org/pdf/2505.12540) [[code]](TBA)
